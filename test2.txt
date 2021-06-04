@@ -2,3 +2,5 @@ This is test
 
 
 to create feature branch and check merging
+
+This is by master branch commit
