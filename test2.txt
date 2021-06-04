@@ -3,4 +3,7 @@ This is test
 
 to create feature branch and check merging
 
+This is by feature commit
+
 This is by master branch commit
+
