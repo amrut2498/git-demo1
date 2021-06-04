@@ -2,4 +2,4 @@
 
 ## Read out instructions below
 
-There are no instructions as of now!
+1. Clone your project from git repo!
